@@ -9,6 +9,9 @@ Windows 10/11, MacOS 10.14 ~ 13,All linux Distr
 #API
 Dxd11/12 , Vulkan , Metal Rendering, Open ES 3.1 , Vulkan Mobile
 
+# Features 
+DLSS,DLAA,FSR2.0,FSR Mobile,LOD Smart Load System
+
 
 
 
